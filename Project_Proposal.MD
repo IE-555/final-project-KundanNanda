@@ -2,7 +2,7 @@
 Kundan Surya Teja Nanda - kundansu@buffalo.edu
 
 ------
-## Road accidents in Chicago
+## Identifying accident prone areas in the city of Chicago
 ----
 
 # IE 555 Project Proposal
@@ -30,6 +30,8 @@ Kundan Surya Teja Nanda - kundansu@buffalo.edu
 
 #### Analysis Plan
 - *From the availabe road accidents data we'll analyze the accident prone areas in the city of Chicago.*
+- *After identifying the accident prone areas we'll plot those areas on the map using veroviz.*
+- *Given start and end locations of the users, we'll also give recommended routes avoiding these accident-prone areas.* 
 
 #### Motivation
-- *As road accidents are increasing day by day in large cities like Chicago. We've decided to analyze the data.*
+- *As road accidents are increasing day by day in large cities like Chicago, we've decided to analyze the data. Using this analysis we'll identify what are the accident prone areas in the city.*
